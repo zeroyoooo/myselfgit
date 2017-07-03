@@ -1,0 +1,41 @@
+﻿入门学习要求： 每周五下午16点进行一次考核，下面的考核标准只是大略性写出的要求，而每周五进行的考核， 考核人员会问更多细节性的问题， 还请做好准备。
+第一周要，掌握Joomla系统的工作原理 
+掌握Joomla的url参数：option, task, format, tmpl, template, view, layout 
+掌握Joomla的组件：文件命名规则，目录结构；  
+掌握数据流、流程走向；C, M, V 的调用关系 
+
+
+掌握Joomla内部各个类，包括但不限于 JFactory, JControllerLegacy, JApplication, JInput, JViewLeagcy, JModelLegacy, JModelAdmin, JModelFrom; JText, JRoute 
+掌握Joomla如何处理mysql数据
+掌握JTable, DBO的使用，能进行简单的CRUD
+掌握JRouter和Router如何进行URL SEF的
+掌握Joomla的Layout管理，
+掌握如何创建视图，如何获取浏览器参数， 
+掌握JLayoutHelper, 
+掌握view/tmpl/下的文件使用
+掌握 JHTML::_， 用于加载各种前端模块， 包括但不限于jQuery, Bootstrap等
+掌握Joomla的模板和组件override，
+ 
+
+掌握文件的存放和命名规则，
+掌握如何做到不同模板实现不同的组件效果掌握Joomla如何处理表单，包括加载，渲染， 数据校验
+掌握JPagination, 
+掌握如何处理分页， 显示每页的数据
+掌握jQuery, 熟悉ID, 类， 属性选择器， 熟悉on事件处理， 熟悉Ajax, get, post, 熟悉闭包
+掌握Git, 掌握命令pull, push, add, commit, checkout, merge 会创建分支， 提交代码，更新代码 
+
+git pull origin master
+
+git push https://github.com/zeroyoooo/Myself master
+
+git add file
+
+git commit -m "注释"
+
+git checkout branch
+git checkout -- file 
+
+git merge branch 
+ 
+第二周， 实战由项目经理交给一个实战任务， 在一周内解决注： 
+由于文本表达有限， 实际考核时会考核具体细节，原理，会问： 是什么，怎么做，为什么，有没有更好的办法；

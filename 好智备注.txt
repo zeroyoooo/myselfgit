@@ -1,0 +1,16 @@
+joomla官网：https://www.joomla.org/
+joomla组件：https://docs.joomla.org/Portal:Developers
+目前:https://docs.joomla.org/J3.x:Developing_an_MVC_Component/Using_the_database
+一些数据库操作：https://docs.joomla.org/Selecting_data_using_JDatabase
+
+git：
+http://gzhz.asuscomm.com
+http://gzhz.asuscomm.com/youkaoshi/youkaoshi/wikis/%E5%AD%A6%E4%B9%A0%E8%A6%81%E6%B1%82
+账号：z jh
+
+coding：
+https://coding.net
+账号：zerosama siyecao123com
+
+项目:com_exams -> view -> userpage
+入口：http://local.youkaoshi.cn/sign-in.html

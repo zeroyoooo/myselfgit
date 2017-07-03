@@ -1,0 +1,12 @@
+git pull origin master
+
+git push https://github.com/zeroyoooo/Myself master
+
+git add file
+
+git commit -m "×¢ÊÍ"
+
+git checkout branch
+git checkout -- file 
+
+git merge branch 

@@ -1,7 +1,9 @@
 joomla官网：https://www.joomla.org/
 joomla组件：https://docs.joomla.org/Portal:Developers
+joomla开发者入口：https://docs.joomla.org/Portal:Developers/zh-cn
 目前:https://docs.joomla.org/J3.x:Developing_an_MVC_Component/Using_the_database
 一些数据库操作：https://docs.joomla.org/Selecting_data_using_JDatabase
+一些数据接收的操作(Jinput):https://docs.joomla.org/Retrieving_request_data_using_JInput
 
 git：
 http://gzhz.asuscomm.com
@@ -14,3 +16,8 @@ https://coding.net
 
 项目:com_exams -> view -> userpage
 入口：http://local.youkaoshi.cn/sign-in.html
+添加试卷界面：http://local.youkaoshi.cn/listexams.html
+test-account:15627236936@163.com
+password:123456
+
+ps的教程已经相关资料：https://github.com/judasn/IntelliJ-IDEA-Tutorial

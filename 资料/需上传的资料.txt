@@ -1,12 +1,21 @@
+日常：
 joomla组件中文教程：http://www.360doc.com/content/11/1219/18/1372409_173441270.shtml
 机械键盘：达尔优
 
 
-
-数据库操作，有变量
+joomla开发实录by-zjh
+1：
+数据库操作，有变量时如何操作
  ->where("e.deleted=0 and e.title = '" . $search . "'")
 
+2：
+css文件修改后需要加上时间值刷新缓存
+时间值->
+$this->document->customCSS = "/components/com_exams/assets/userpage.css?r=201707101017";
+r=(当前时间)
 
+
+基础：
 css：placeholder样式修改
 input[type=text]::-webkit-input-placeholder {
      color: #aab2bd;

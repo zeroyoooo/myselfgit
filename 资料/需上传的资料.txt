@@ -14,11 +14,27 @@ css文件修改后需要加上时间值刷新缓存
 $this->document->customCSS = "/components/com_exams/assets/userpage.css?r=201707101017";
 r=(当前时间)
 
+3.错误提示：$this->setMessage('123');
+
 
 基础：
-css：placeholder样式修改
+1.css：placeholder样式修改
 input[type=text]::-webkit-input-placeholder {
      color: #aab2bd;
      font-size: 12px;
      text-align: right;
 }
+
+2.input框鼠标移入时去除边框
+input:focus {
+    outline:none;
+    border:none;
+}
+
+
+git：
+冲突的标记是conflict
+解决冲突后需要重新提交$ git commit -am"fixed conflict"
+
+
+

@@ -4,6 +4,7 @@ joomla开发者入口：https://docs.joomla.org/Portal:Developers/zh-cn
 目前:https://docs.joomla.org/J3.x:Developing_an_MVC_Component/Using_the_database
 一些数据库操作：https://docs.joomla.org/Selecting_data_using_JDatabase
 一些数据接收的操作(Jinput):https://docs.joomla.org/Retrieving_request_data_using_JInput
+一些目录操作：https://docs.joomla.org/Using_nested_sets
 
 git：
 http://gzhz.asuscomm.com
@@ -25,3 +26,7 @@ ps的教程已经相关资料：https://github.com/judasn/IntelliJ-IDEA-Tutorial
 
 
 科目三：https://baijiahao.baidu.com/po/feed/share?wfr=spider&for=pc&context=%7B%22sourceFrom%22%3A%22bjh%22%2C%22nid%22%3A%22news_3449035422905876831%22%7D
+
+bootstrap：http://getbootstrap.com/components/#alerts
+
+优考试官网：https://www.youkaoshi.cn/

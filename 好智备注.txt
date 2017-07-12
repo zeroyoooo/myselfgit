@@ -18,6 +18,7 @@ https://coding.net
 项目:com_exams -> view -> userpage
 入口：http://local.youkaoshi.cn/sign-in.html
 添加试卷界面：http://local.youkaoshi.cn/listexams.html
+学生登录页面：http://local.youkaoshi.cn/u/signin/MTExMDE6MA==.html
 test-account:15627236936@163.com
 password:123456
 
@@ -30,3 +31,5 @@ ps的教程已经相关资料：https://github.com/judasn/IntelliJ-IDEA-Tutorial
 bootstrap：http://getbootstrap.com/components/#alerts
 
 优考试官网：https://www.youkaoshi.cn/
+
+sqlyog下载：https://github.com/webyog/sqlyog-community

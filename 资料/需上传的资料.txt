@@ -14,8 +14,11 @@ css文件修改后需要加上时间值刷新缓存
 $this->document->customCSS = "/components/com_exams/assets/userpage.css?r=201707101017";
 r=(当前时间)
 
-3.错误提示：$this->setMessage('123');
+3.错误提示：$this->setMessage('123');（只能在Controller里面用）
 
+4.$saeModel->setState("search", isset($search)&&$search!=""?$search:null);三元表达式，多用用
+
+5.getPagination() 的limit是写死的，但是start是动态获取的。
 
 基础：
 1.css：placeholder样式修改
@@ -37,4 +40,5 @@ git：
 解决冲突后需要重新提交$ git commit -am"fixed conflict"
 
 
-
+js
+if(a.indexOf(",") > 0 ){ //判断是否含有某字符串
